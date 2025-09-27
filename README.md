@@ -1,6 +1,6 @@
 Dynamic Resume Builder 📄
 A full-stack web application built to solve the personal challenge of creating professional, customized resumes with ease.
-![Dynamic Resume Builder Dashboard](./assets/dashboard.png)
+![Dynamic Resume Builder Dashboard](./assets/Resume_Builder_Photo.png)
 📖 Overview
 The Dynamic Resume Builder was created to address the common frustration of using rigid, inflexible resume-building tools. Traditional methods often lack real-time feedback and limit customization, making it difficult to tailor resumes for different job applications. This project solves that problem by providing a seamless, interactive experience where users can see their changes instantly and have complete control over their resume's content and structure. The core philosophy is to empower users to create polished, professional documents efficiently, without compromising on quality or flexibility.
 
