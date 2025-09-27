@@ -1,0 +1,19 @@
+{
+  "name": "resume-builder-monorepo",
+  "version": "1.0.0",
+  "description": "A full-stack resume builder application.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "install-all": "npm install && npm install --prefix server && npm install --prefix client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "concurrently": "^8.2.2",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13"
+  }
+}
